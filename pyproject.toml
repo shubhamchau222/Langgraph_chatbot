@@ -1,0 +1,19 @@
+[project]
+name = "langgraph-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "groq",
+    "langgraph",
+    "langchain-groq",
+    "python-dotenv",
+    "langchain-tavily",
+    "streamlit",
+    "pyyaml",
+    "db-sqlite3",
+    "langgraph-checkpoint-sqlite"
+    
+]
+
