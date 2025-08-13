@@ -47,7 +47,7 @@ A modular, multi-threaded chatbot built with [Streamlit](https://streamlit.io/),
 
 ---
 ## snapshot
-![Architecture Diagram](images/chatbot.png)
+![Architecture Diagram](https://github.com/shubhamchau222/Langgraph_chatbot/blob/main/Images/chatbot.png)
 
 ---
 
